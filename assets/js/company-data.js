@@ -14,7 +14,7 @@ const COMPANY_DATA = {
     completo: "AVENIDA KALED COZAC, 57, QUADRA B, LOTE 14, ANDAR 1, CENTRO, CRISTALINA - GO, CEP 73850-000"
   },
   contato: {
-    email: "contrata@cristalnet.com.br",
+    email: "contratacontabilidade@outlook.com",
     telefone: "(61) 3612-1381",
     telefoneLocal: "(61) 3612-1381",
     telefoneLink: "+556136121381"
